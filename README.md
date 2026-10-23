@@ -1,4 +1,4 @@
 #New Project
 
 This project was created from local 
-Created by Krushna Shirke
+Created by Krushna Shirke.
